@@ -7,9 +7,10 @@ public class ExamForWhile {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-			System.out.println("===================");
+			System.out.println("----------------------");
+			
 			System.out.println("메뉴를 선택해주세요 ");
-			System.out.println("===================");
+			System.out.println("----------------------");
 			System.out.println("1. 1부터 입력한 수까지 더하기");
 			System.out.println("2. 최대값/최소값구하기");
 			System.out.println("3. 입력받은 숫자의 합계와 평균구하기");
