@@ -1,6 +1,7 @@
 package homework6;
 
 import java.util.Scanner;
+
 public class ExamForWhile {
 
 	public static void main(String[] args) {
@@ -37,3 +38,4 @@ public class ExamForWhile {
 			} else if (select == 6)
 				return;
 	}
+}
